@@ -19,6 +19,4 @@ def ftoc
 end
 
 
-ctof
 
-ftoc
